@@ -1,0 +1,6 @@
+{
+  "name": "artifish-api",
+  "version": "1.0.0",
+  "description": "ArtFish Agent API",
+  "main": "api/register.js"
+}
